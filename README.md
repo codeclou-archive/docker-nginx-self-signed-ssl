@@ -4,7 +4,7 @@
 Run nginx with self-signed SSL certificate
 
 ```
-docker run -d -p 4443:4443 --volume $(pwd):/opt/www --name local.codeclou.io codeclou/docker-nginx-self-signed-ssl
+docker run -d -p 4443:4443 --volume $(pwd):/opt/www --name local.codeclou.io codeclou/docker-nginx-self-signed-ssl:latest
 ```
 
 Now you can access `https://local.codeclou.io:4443/` which works with a self-signed certificate.
