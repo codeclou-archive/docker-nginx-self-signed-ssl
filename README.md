@@ -1,7 +1,7 @@
 # docker-nginx-self-signed-ssl
 
 
-[![](https://codeclou.github.io/doc/badges/generated/docker-image-size-52.svg)](https://hub.docker.com/r/codeclou/docker-nginx-self-signed-ssl/tags/) [![](https://codeclou.github.io/doc/badges/generated/docker-from-alpine-3.5.svg)](https://alpinelinux.org/) [![](https://codeclou.github.io/doc/badges/generated/docker-run-as-non-root.svg)](https://docs.docker.com/engine/reference/builder/#/user)
+[![](https://codeclou.github.io/doc/badges/generated/docker-image-size-6.svg)](https://hub.docker.com/r/codeclou/docker-nginx-self-signed-ssl/tags/) [![](https://codeclou.github.io/doc/badges/generated/docker-from-alpine-3.5.svg)](https://alpinelinux.org/) [![](https://codeclou.github.io/doc/badges/generated/docker-run-as-non-root.svg)](https://docs.docker.com/engine/reference/builder/#/user)
 
 Docker-Image to run nginx with a self-signed SSL certificate.
 
